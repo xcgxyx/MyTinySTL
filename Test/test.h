@@ -50,6 +50,7 @@ public:
   double      nPassed;        // 测试通过的案例数
 };
 
+  //
 // UnitTest 类
 // 单元测试，把所有测试案例加入到 vector 中，依次执行测试案例
 class UnitTest
